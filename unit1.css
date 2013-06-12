@@ -1,0 +1,60 @@
+#frmHello {
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+#frmHello #frmHello_form {
+margin-bottom: 0px;
+}
+#frmHello #frmHello_table {
+width: 320px;
+height: 480px;
+border-width:0;
+border-collapse:separate;
+}
+#frmHello #frmHello_table > tbody > tr > td, #frmHello #frmHello_table > tbody > th {
+padding:0;
+vertical-align:top;
+}
+#frmHello #MEdit1_outer {
+z-index: 0;
+left: 9px;
+width: 267px;
+height: 43px;
+position: absolute;
+top: 8px;
+
+}
+#frmHello #MEdit1 {
+width:267px;
+height:43px;
+}
+#frmHello #MLabel1_outer {
+z-index: 1;
+left: 39px;
+width: 252px;
+height: 20px;
+position: absolute;
+top: 106px;
+
+}
+#frmHello #MLabel1 {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+  width: 252px;
+height: 20px;
+}
+#frmHello #MButton1_outer {
+z-index: 2;
+left: 67px;
+width: 150px;
+height: 43px;
+position: absolute;
+top: 176px;
+
+}
+#frmHello #MButton1_outer > div{ 
+width: 150px;
+height: 43px;
+} 
